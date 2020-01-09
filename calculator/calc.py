@@ -16,6 +16,7 @@ def clear():
     # 50 lines distance to keep cli clean looking
 
 opc = ''
+error = True
 
 while(opc != 'x' ):
     clear()
@@ -23,8 +24,24 @@ while(opc != 'x' ):
     opc = input("Please select an option: ")
 
     if(opc == '1' or opc == '2' or opc == '3' or opc == '4'):
-        num1 = float(input("Input your first number "))
-        num2 = float(input("Input your second number "))
+
+        while(error):
+            try:
+                num1 = float(input("Input your first number "))
+                error = False
+            except:
+                error = True
+                print("That wasnt a valid number, try again\n")
+        error = True
+        while(error):
+            try:
+                num2 = float(input("Input your second number "))
+                error = False
+            except:
+                error = True
+                print("That wasnt a valid number, try again\n")
+
+            
         if(opc == '4' and num2 == 0):
             while(num2 == 0):
                 print("Error, can not divide by 0")
