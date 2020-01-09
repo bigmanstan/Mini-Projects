@@ -1,2 +1,5 @@
-# Mini-Projects
-Collection of short projects
+### Features to add
+- error handling 
+
+### Features added
+- Simple arthmetic functions via cli
