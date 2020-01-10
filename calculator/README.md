@@ -1,5 +1,7 @@
 ### Features to add
-- error handling 
+- Scientific calculator options
+
 
 ### Features added
 - Simple arthmetic functions via cli
+- error handling 
