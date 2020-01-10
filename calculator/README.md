@@ -1,5 +1,6 @@
 ### Features to add
 - Scientific calculator options
+- make code more readable
 
 
 ### Features added
