@@ -1,5 +1,6 @@
 ### Features to add
 - Connect both scripts via import function
+- One script to run whole program
 - Hand gestures
 
 
