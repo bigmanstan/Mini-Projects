@@ -1,4 +1,4 @@
-def print_menu():
+import Sci-Calc 
     print('*******')
     print("Calculator")
     print('*******')
@@ -7,6 +7,7 @@ def print_menu():
     print('[2] Subtract')
     print('[3] Multiply')
     print('[4] Divide')
+    print('[5] Scientific Calculator Options')
 
 
     print('[x] Exit')
@@ -59,6 +60,10 @@ while(opc != 'x' ):
     elif(opc == '4'):
         print(num1 / num2)
         input()
+    elif(opc == '5')
+        Scical()
+        print("over to scientific section")
+
 
     if(opc =='x'):
         input("Press Enter to Exit the Program")
