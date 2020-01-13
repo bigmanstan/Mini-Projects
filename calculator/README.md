@@ -1,6 +1,7 @@
 ### Features to add
 - Scientific calculator options
 - make code more readable
+- Hand gestures
 
 
 ### Features added
