@@ -1,6 +1,6 @@
 ### Features to add
 - Connect both scripts via import function
-- One script to run whole program
+- One script to run whole program(Currently simple and scientific calculators are needed to berun seperately)
 - Hand gestures
 
 
