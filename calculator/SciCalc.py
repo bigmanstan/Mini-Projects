@@ -1,6 +1,6 @@
 import math
 
-class SciCal():
+def SciCal():
     print('[1] Inverse')
     print('[2] Square')
     print('[3] Cube')
@@ -14,6 +14,7 @@ class SciCal():
 
     oprand = float(input("Enter input\n"))
 
+
     if(operator == '1'):
         print("Result : ",1/oprand)
     elif(operator == '2'):
@@ -24,8 +25,9 @@ class SciCal():
         print("Result : ",oprand**0.5)
     else:
         print(" Invalid Input....Try again")
-        
+        SciCal
         
     
-    
-        
+
+if __name__ == "__main__":
+    SciCal()      

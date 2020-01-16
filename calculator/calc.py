@@ -1,4 +1,5 @@
-import Sci-Calc 
+import SciCalc
+def print_menu():
     print('*******')
     print("Calculator")
     print('*******')
@@ -60,8 +61,8 @@ while(opc != 'x' ):
     elif(opc == '4'):
         print(num1 / num2)
         input()
-    elif(opc == '5')
-        Scical()
+    elif(opc == '5'):
+        SciCalc.SciCal()
         print("over to scientific section")
 
 
