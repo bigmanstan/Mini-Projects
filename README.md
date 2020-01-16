@@ -1,2 +1,2 @@
-# Mini-Projects
+## Mini-Projects
 Collection of short projects
