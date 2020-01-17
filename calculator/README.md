@@ -1,5 +1,5 @@
 ### Features to add
-- Connect both scripts via import function
+- 
 - One script to run whole program(Currently simple and scientific calculators are needed to berun seperately)
 - Hand gestures
 
@@ -9,3 +9,4 @@
 - error handling 
 - Scientific calculator options
 - make code more readable
+-Connected both scripts via import function
