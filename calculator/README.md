@@ -1,6 +1,5 @@
 ### Features to add
 
-- make code more readable
 - Hand gestures
 
 
@@ -10,3 +9,4 @@
 - Scientific calculator options
 - Connect both scripts via import function
 - One script to run whole program
+- make code more readable
