@@ -1,7 +1,7 @@
 ### Features to add
 
+- add logrithm option
 - Hand gestures
-
 
 ### Features added
 - Simple arthmetic functions via cli
