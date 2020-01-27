@@ -44,7 +44,7 @@ def simpleCalc():
                     error = True
                     print("That wasnt a valid number, try again\n")
 
-                
+            error = True  
             if(opc == '4' and num2 == 0):
                 while(num2 == 0):
                     print("Error, can not divide by 0")
