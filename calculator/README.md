@@ -1,6 +1,7 @@
 ### Features to add
 
 - add logrithm function
+- Find bugs
 - Hand gestures
 
 ### Features added
