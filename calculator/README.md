@@ -1,6 +1,6 @@
 ### Features to add
 
-- add logrithmic function
+- add logrithmic function in scientific calculator
 - Find bugs
 - Hand gestures
 
