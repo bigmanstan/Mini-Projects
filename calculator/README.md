@@ -1,6 +1,7 @@
 ### Features to add
 
 - add logrithmic function in scientific calculator
+- add a third file, without any main code to run all scripts
 - Find bugs
 - Hand gestures
 
